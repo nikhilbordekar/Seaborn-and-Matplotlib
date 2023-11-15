@@ -11,3 +11,11 @@ This repository contains examples of data visualization using Seaborn and Matplo
 - **Heatmaps**: Gain insights into data patterns and relationships through color-coded heatmaps.
 - **Histograms and Distributions**: Understand data distributions using histograms and kernel density plots.
 - **Box Plots**: Identify statistical measures and outliers with box plots.
+
+
+## How to Use:
+Each Python script in the repository corresponds to a specific type of chart. Simply run the scripts to generate the visualizations and customize them for your specific needs.
+
+Feel free to explore, modify, and use these examples for your projects. Happy coding!
+
+**Note**: Make sure you have Seaborn and Matplotlib installed in your Python environment. 
